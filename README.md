@@ -2,6 +2,7 @@
 ## **Clustering-Financial-TimeSeries** 
 #### Applying k-means and k-medoid clustering to classify and forecast S&amp;P 500 time-series. 
 
+##### Update: I've taken down several files involving key strategy implementation, please contact me if you want to discuss them
 
 ##### Study to apply k-means and k-medoid clustering algorithms in the development of portfolio strategies, uses Python in Jupyter Notebook to classify different time-series from the S&P 500, uses EasyLanguage in TradeStation to simulate trading output based upon clustering outcomes
 
