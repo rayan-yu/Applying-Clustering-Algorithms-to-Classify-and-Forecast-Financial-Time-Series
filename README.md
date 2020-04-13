@@ -1,6 +1,6 @@
 # **README.md**
-## **Clustering-Financial-TimeSeries** 
-#### Applying k-means and k-medoid clustering to classify and forecast S&amp;P 500 time-series. 
+## **Applying Clustering Algorithms to Classify and Forecast Financial Time-Series** 
+#### Project contributions: S&P 500 time-series data cleaning and processing for one year up to 5 min intervals, k-means and k-medoid clustering to classify and forecast S&amp;P 500 time-series, 3 different methods of analysis conducted with silhouette score, Davies-Bouldin Index, and Elbow method
 
 ##### Update: I've taken down several files involving key clustering analysis
 ##### I've also removed the data files used for this project
