@@ -2,9 +2,9 @@
 ## **Applying Clustering Algorithms to Classify and Forecast Financial Time-Series** 
 #### Abstract: https://drive.google.com/file/d/1oYk8XS_9ZE9QTb8XgfzAPTiIGx4-zs4i/view?usp=sharing
 #### Project contributions: S&P 500 time-series data cleaning and processing for one year up to 5 min intervals, k-means and k-medoid clustering to classify and forecast S&amp;P 500 time-series, 3 different methods of analysis conducted with silhouette score, Davies-Bouldin Index, and Elbow method
+#### 2019 Virginia State Science Fair Winner in Mathematics
 
-##### Update: I've taken down several files involving key clustering analysis and data pre-processing
-##### Please contact me to request them for non-proprietary purposes
+##### Update: Several files involving clustering analysis and data pre-processing are unavailable for proprietary reasons.
 
 ##### Study to apply k-means and k-medoid clustering algorithms in the development of portfolio strategies, uses Python in Jupyter Notebook to classify different time-series from the S&P 500, uses EasyLanguage in TradeStation to simulate trading output based upon clustering outcomes
 
